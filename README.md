@@ -12,7 +12,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=whoisMEFS&theme=tokyonight&hide_border=true)<br/>
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoisMEFS&show_icons=true&theme=tokyonight)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=whoisMEFS&icon=0&color=6)](https://visitcount.itsvg.in)
 
