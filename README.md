@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=whoisMEFS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=whoisMEFS&theme=tokyonight&hide_border=true)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=whoisMEFS&icon=0&color=6)](https://visitcount.itsvg.in)
