@@ -1,5 +1,5 @@
 # 💫 About Me:
-💅 She/her<br>🎓Computer science student <br>📍São Paulo, Brazil<br>✨"Those who can imagine anything, can create the impossible."<br>          — Alan Turing
+🔍 Focused on data, databases, software development, and back-end technologies<br>💡 Passionate about tech, clean code, and continuous learning <br>🌎 Based in São Paulo, Brazil<br>✨"Those who can imagine anything, can create the impossible."<br>          — Alan Turing
 
 
 ## 🌐 Socials:
